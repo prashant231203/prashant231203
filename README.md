@@ -10,7 +10,7 @@
 ✨ With experience in building **ML Models**, exploring **Open Source Contributions**, and tackling **prominent projects**, I thrive on challenges and learning every day!  
 
 🔧 **Tech Stack**:  
-- **Programming Languages**: Python, Java, Go, O language  
+- **Programming Languages**: Python, Java, Go
 - **Libraries & Tools**: Pandas, NumPy, Matplotlib, Scikit-learn, PyTorch  
 - **Development Tools**: Git, Docker, Prometheus  
 - **Other Skills**: Data Analysis, Backend Development, API Design  
